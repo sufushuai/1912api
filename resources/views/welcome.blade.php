@@ -81,7 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     halou
+=======
+                    苏富帅
+>>>>>>> 994b3e2f778ae24d1b488e8257fe034a7e548cec
                 </div>
 
                 <div class="links">
